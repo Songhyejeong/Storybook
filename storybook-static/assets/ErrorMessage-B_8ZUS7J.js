@@ -1,0 +1,1 @@
+import{j as e}from"./jsx-runtime-z8MfsBtr.js";const s=({children:r})=>e.jsx("p",{className:"text-xs text-error",children:r});s.__docgenInfo={description:"",methods:[],displayName:"ErrorMessage",props:{children:{required:!0,tsType:{name:"string"},description:""}}};export{s as E};
