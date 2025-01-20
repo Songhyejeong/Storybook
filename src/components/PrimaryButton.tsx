@@ -29,7 +29,7 @@ const PrimaryButton = ({
   return (
     <button
       disabled={isDisabled}
-      className={`w-full h-[59px]  rounded-primary-button ${disabled} ${color[theme]}`}
+      className={`w-full h-[59px]  rounded-button-default ${disabled} ${color[theme]}`}
       onClick={onClick}
     >
       {children}
